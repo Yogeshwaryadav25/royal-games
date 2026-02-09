@@ -8,20 +8,20 @@ export default function Store(){
 const navigate = useNavigate(); 
 const {addToCart, addToFav}= useStore();
   const games = [
-    {id: 1, title: "WWE 2K", image: "/assets/wwe2k.jpg" },
-    {id: 2, title: "COD", image: "/assets/cod3.jpg" },
+    {id: 1, title: "WWE 2K", image:"/assets/wwe2k.jpg" },
+    {id: 2, title: "COD", image:"/assets/cod3.jpg" },
     {id: 3, title: "Forza", image: "/assets/forza1.jpg" },
-    {id: 4, title: "RDR2", image: "/assets/rdr2.jpg" },
-    {id: 5, title: "FIFA", image: "/assets/fifa2.jpg" },
+    {id: 4, title: "RDR2", image:"/assets/rdr2.jpg" },
+    {id: 5, title: "FIFA", image:"/assets/fifa2.jpg" },
     {id: 6, title: "Ghost of Tsushima", image: "/assets/gost_of_t.jpg" },
   ];
 
   const newGames = [
     {id: 7, title: "GTA VI", image: "/assets/gta5.jpg"},
-    {id: 8, title: "Valorant", image: "/assets/valo4.jpg"},
-    {id: 9, title: "God Of War Ragnarok ", image: "/assets/god.jpg"},
+    {id: 8, title: "Valorant", image:"/assets/valo4.jpg"},
+    {id: 9, title: "God Of War", image: "/assets/god.jpg"},
     {id: 10, title: "Choo Choo Charles", image: "/assets/choo.jpg"},
-    {id: 11, title: "Battle Filed 6", image: "/assets/btf.jpg"},
+    {id: 11, title: "Battle Filed 6", image:"/assets/btf.jpg"},
     {id: 12, title: "Genshine Impact", image: "/assets/gen.jpg"},
   ]
 

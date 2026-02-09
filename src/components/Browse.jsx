@@ -1,19 +1,19 @@
 const trendingGames = [
    {
     name:"GTA VI",
-    image:"/assets/thumbgta5.jpg",
+    image:"public/assets/thumbgta5.jpg",
    },
    {
     name:"Call of Duty: Warzone",
-    image:"/assets/cod3.jpg",
+    image:"public/assets/cod3.jpg",
    },
    {
     name:"Resident Evil",
-    image:"/assets/r_evil.jpg"
+    image:"public/assets/r_evil.jpg"
    },
    {
     name:"EA Sports FC 25",
-    image:"/assets/fifa2.jpg",
+    image:"public/assets/fifa2.jpg",
    },
 ];
 

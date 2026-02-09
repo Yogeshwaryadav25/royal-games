@@ -16,14 +16,14 @@ const games = [
   {
     title: "GTA V",
     desc: "Explore Los Santos and build your empire",
-    image: "/assets/gta5.jpg",
+    image:"/assets/gta5.jpg",
     thumb: "/assets/thumbgta5.jpg",
   },
   {
     title: "Fall Guys",
     desc: "survive the obsicles ",
     image: "/assets/gf-banner.jpg",
-    thumb: "/assets/fg.jpg",
+    thumb:"/assets/fg.jpg",
   },
   {
     title: "Genshine Impact",
